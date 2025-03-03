@@ -29,9 +29,12 @@ The work investigates the biomechanical properties of Tobacco Mosaic Virus (TMV)
 
 - Python 3.x
 - Required Python libraries: NumPy, Matplotlib, MDAnalysis, PyMOL (with its Python API), and VLMP (for high-throughput AFM simulation).
-- UAMMD library for GPU-based coarse-grained simulations.
+- UAMMD-structured for GPU-based coarse-grained simulations.
 
 Please refer to the respective documentation of each dependency for installation instructions.
+
+UAMMD-structured documentation: [https://uammd-structured.readthedocs.io/en/latest/](https://uammd-structured.readthedocs.io/en/latest/)
+VLMP documentation: [https://vlmp.readthedocs.io/en/latest/](https://vlmp.readthedocs.io/en/latest/)
 
 ---
 
