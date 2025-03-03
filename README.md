@@ -65,14 +65,8 @@ Detailed instructions are provided as comments within each script.
 
 ---
 
-## License
-
-This repository is distributed under the [LICENSE NAME] license. Please see the LICENSE file for details.
-
----
-
 ## Contact
 
-For questions or further information, please contact the corresponding author at [p.j.depablo@uam.es](mailto:p.j.depablo@uam.es).
+For questions or further information, please contact [p.ibanez.fre@gmail.com](mailto:p.ibanez.fre@gmail.com).
 
 ---
