@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*
+
+### Above combination will ignore all files without extension ###
+
+*.dat
+*.sp
+*.png
+*.json
+*.pdb
+
+*TEST*
+*AFM_INDENTATION*
+*THERMODYNAMIC_INTEGRATION*
+
+*.zip
+
