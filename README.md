@@ -34,6 +34,7 @@ The work investigates the biomechanical properties of Tobacco Mosaic Virus (TMV)
 Please refer to the respective documentation of each dependency for installation instructions.
 
 UAMMD-structured documentation: [https://uammd-structured.readthedocs.io/en/latest/](https://uammd-structured.readthedocs.io/en/latest/)
+
 VLMP documentation: [https://vlmp.readthedocs.io/en/latest/](https://vlmp.readthedocs.io/en/latest/)
 
 ---
